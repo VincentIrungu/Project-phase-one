@@ -61,12 +61,17 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
 #courses {
     margin-top: 20px;
 }
 
 .hidden {
     display: none;
+}
+
+#status {
+    color: red; /* Change "COMPASS STATUS" to red */
 }
 
 /* Styles for the course div box */
@@ -116,6 +121,7 @@ button:hover {
     line-height: 1.3;
     margin: 10px 0;
 }
+
 /* Responsive styles */
 @media screen and (max-width: 768px) {
     .course-box {
@@ -128,3 +134,4 @@ button:hover {
         margin: 5px;
     }
 }
+

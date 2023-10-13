@@ -1,0 +1,67 @@
+# College Qualifier Generator
+
+![College Qualifier Generator](https://github.com/VincentIrungu/Project-phase-one.git)
+
+The College Qualifier Generator is a web application that helps students determine their eligibility for different college courses based on their academic performance. It calculates the mean marks and suggests available courses based on the mean grade.
+
+## Table of Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Course Suggestions](#course-suggestions)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [License](#license)
+- [Author](#author)
+
+## Features
+
+- Input grades for multiple subjects and calculate the mean grade.
+- Suggest available college courses based on the mean grade.
+- View course details, including title, faculty, duration, and description.
+- Display an image for each available course.
+
+## Usage
+
+1. **Input Subject Marks:** Enter marks for different subjects in the provided input fields. The web application will automatically calculate the mean marks and the corresponding mean grade.
+
+2. **Calculate:** Click the "Calculate" button to calculate the mean marks and determine the student's eligibility for different college courses.
+
+3. **Available Courses:** If the student qualifies for college, the available courses are displayed. Courses are suggested based on the student's mean grade.
+
+4. **Course Details:** Click on a course to view its details, including title, faculty, duration, and description. You can also view a poster image for each course.
+
+## Course Suggestions
+
+The College Qualifier Generator suggests courses based on the mean grade as follows:
+
+- **A and B Grades:** Students with a mean grade of A or B are eligible for Computer Science and Engineering courses.
+- **C Grade:** Students with a mean grade of C are eligible for Business Administration.
+- **D and E Grades:** Students with a mean grade of D or E are eligible for the Commerce course.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+To set up this project on your local machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://git@github.com:VincentIrungu/Project-phase-one.git
+
+2. Run the application:
+Open the index.html file in your web browser.
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+Vincent Irungu
+
+
+
+
